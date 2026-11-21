@@ -7,7 +7,7 @@ add_repository:
       name: Repository
       description: Repository in 'owner/repo' format.
       required: true
-      example: pmestevez/my-private-integration
+      example: patchedsoul/my-private-integration
       selector:
         text:
     ref_type:
