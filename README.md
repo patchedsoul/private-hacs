@@ -1,4 +1,6 @@
-# Private HACS
+# !! You probably want the actual project for this: https://github.com/pestevez/private-hacs. This is my personal copy and is for personal supply chain control !!
+
+## Private HACS (personal fork of https://github.com/pestevez/private-hacs)
 
 A small Home Assistant custom integration that installs and updates other custom
 integrations from **private GitHub repositories**.
