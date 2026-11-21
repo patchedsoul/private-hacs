@@ -32,7 +32,7 @@ scope. This is integrations only.
 ### Recommended: install via HACS
 
 1. In Home Assistant, open **HACS → Integrations → ⋮ → Custom repositories**.
-2. Add `https://github.com/pestevez/private-hacs` as an **Integration**
+2. Add `https://github.com/patchedsoul/private-hacs` as an **Integration**
    category.
 3. Click **Install** on the new "Private HACS" entry, then **restart Home
    Assistant**.
@@ -90,7 +90,7 @@ from automations:
 ```yaml
 service: private_hacs.add_repository
 data:
-  full_name: https://github.com/pestevez/my-private-integration
+  full_name: https://github.com/patchedsoul/my-private-integration
   ref_type: release      # release | tag | branch | commit
   # ref: v1.2.0          # required for tag/branch/commit
   # integration_name: my_integration   # only if the repo has multiple integrations
