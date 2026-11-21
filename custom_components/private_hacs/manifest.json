@@ -1,13 +1,13 @@
 {
   "domain": "private_hacs",
   "name": "Private HACS",
-  "codeowners": ["@pestevez"],
+  "codeowners": ["@patchedsoul"],
   "config_flow": true,
   "dependencies": ["http"],
-  "documentation": "https://github.com/pestevez/private-hacs",
+  "documentation": "https://github.com/patchedsoul/private-hacs",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/pestevez/private-hacs/issues",
+  "issue_tracker": "https://github.com/patchedsoul/private-hacs/issues",
   "requirements": [],
   "version": "0.1.0"
 }
